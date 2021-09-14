@@ -1,5 +1,5 @@
 {
-  "name": "queue.js",
+  "name": "massed/queue",
   "version": "1.0.0",
   "description": "It's queue for javascript ",
   "main": "queue.js",
