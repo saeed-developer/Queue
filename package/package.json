@@ -1,7 +1,7 @@
 {
-  "name": "@maseed/queue",
-  "version": "1.0.2",
-  "description": "It's queue for javascript ",
+  "name": "queue-list",
+  "version": "1.0.0",
+  "description": "It's queue-list for javascript ",
   "main": "queue.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
