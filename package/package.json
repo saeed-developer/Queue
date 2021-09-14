@@ -1,0 +1,22 @@
+{
+  "name": "queue.js",
+  "version": "1.0.0",
+  "description": "It's queue for javascript ",
+  "main": "queue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadsaeed-dev/Queue.git"
+  },
+  "keywords": [
+    "queue"
+  ],
+  "author": "maseed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohammadsaeed-dev/Queue/issues"
+  },
+  "homepage": "https://github.com/mohammadsaeed-dev/Queue#readme"
+}
