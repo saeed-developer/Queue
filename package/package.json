@@ -1,6 +1,6 @@
 {
   "name": "@maseed/queue",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "It's queue for javascript ",
   "main": "queue.js",
   "scripts": {
