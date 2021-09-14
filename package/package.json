@@ -1,7 +1,7 @@
 {
-  "name": "queue-list",
-  "version": "1.0.0",
-  "description": "It's queue-list for javascript ",
+  "name": "list-queue",
+  "version": "1.0.1",
+  "description": "It's list-queue for javascript ",
   "main": "queue.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/mohammadsaeed-dev/Queue.git"
   },
   "keywords": [
-    "queue"
+    "queue",
+    "list-queue"
   ],
   "author": "moseed",
   "license": "MIT",
