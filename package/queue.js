@@ -1,9 +1,9 @@
  class Queue{
     #list
-    #item
+    item
     constructor() {
         this.#list = [];
-        this.#item = '';
+        this.item = '';
       }
 put(a){
     if (Array.isArray(a)){
@@ -28,9 +28,9 @@ put(a){
 }
 get(a = '1'){
 if (String(a) === '1'){
-return this.#item = this.#list.shift()
+return this.item = this.#list.shift()
 }
-else if(a > '1') return this.#item = this.#list.splice(0 , String(a))
+else if(a > '1') return this.item = this.#list.splice(0 , String(a))
 }
 showList()
 {
