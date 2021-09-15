@@ -1,9 +1,9 @@
-const Q = require('list-queue')
+const Q = require('./../package/queue.js')
 const q = new Q
 test('test isEmpty' ,()=>{
     expect(q.isEmpty()).toBe(true);
 })
-test('is isEmpty , get',()=>{
+test('test isEmpty , get',()=>{
     q.put(1)
     expect(q.isEmpty()).toBe(false)
     q.get()
